@@ -1,3 +1,3 @@
 # HTML-CSS MC SWORD
 
-![Screen](screen.jpg
+![Screen](screen.jpg)
